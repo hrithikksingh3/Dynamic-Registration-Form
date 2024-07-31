@@ -159,4 +159,4 @@ app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
 
-//upto mark (till static dashboard.)
+//upto mark (till dynamic dashboard.)
