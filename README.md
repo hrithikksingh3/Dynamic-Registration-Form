@@ -2,6 +2,9 @@
 
 This project is a form built using HTML, CSS, Node.js, and MongoDB. The form is fully responsive and includes user registration and login functionalities.
 
+## Live view 
+https://dynamic-registration-form.onrender.com/
+
 ## Installation
 
 To install and run this project on your local machine, follow these steps:
@@ -18,10 +21,10 @@ MONGODB_URI=your-mongodb-connection-string
 Replace your-mongodb-connection-string with your actual MongoDB connection string. You can obtain this from your MongoDB Atlas dashboard.
 
 3. Install the dependencies:
-npm install
+`npm install`
 
 4. Start the server:
-npm start
+`npm start`
 
 Open your web browser and visit http://localhost:3000 to access the application.
 
@@ -29,10 +32,10 @@ To access the database, you can use MongoDB Compass or the MongoDB shell. Connec
 
 To stop the server, press Ctrl + C in the terminal.
 
-Usage
+## Usage
 Once the server is running and you have accessed the form in your web browser, you can start using it to collect data from users. Any data entered into the form will be stored in the MongoDB database.
 
-Contributing
+## Contributing
 If you would like to contribute to this project, please follow these steps:
 
 Fork the repository
@@ -41,8 +44,15 @@ Make your changes and commit them: git commit -m 'Add your feature'
 Push to the branch: git push origin feature/your-feature
 Submit a pull request
 
-License
+## License
 This project is licensed under the MIT License.
 
-Contact
+## Contact
 For any questions or feedback, feel free to reach out to your- shrithik511@gmail.com
+
+<h2> Support Me by buying me a coffee 😐👇</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/codersvoice" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 120px; width: 600px;" >
+  </a>
+</p>
