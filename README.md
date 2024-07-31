@@ -50,7 +50,7 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions or feedback, feel free to reach out to your- shrithik511@gmail.com
 
-<h2> Support Me by buying me a coffee 😐👇</h2>
+<h2> I love coffee wanna buy me one😐👇</h2>
 <p align="center">
   <a href="https://www.buymeacoffee.com/codersvoice" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 120px; width: 600px;" >
